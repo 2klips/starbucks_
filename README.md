@@ -98,3 +98,10 @@ browser.quit()
 이후 가져온 정보들을 MongoDB를 사용해 저장한 후,
 Streamlit을 사용하여 제작한 간단한 웹페이지를 통해 매장 지도 및 메뉴목록 구현
 
+<br>
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/6224daff-e5f0-41ec-a196-97da9bfa1608)
+
+</div>
